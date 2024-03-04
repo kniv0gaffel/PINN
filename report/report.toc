@@ -1,0 +1,20 @@
+\contentsline {section}{Introduction}{3}{chapter*.1}%
+\contentsline {section}{\numberline {1}Wave Equation}{4}{section.0.1}%
+\contentsline {section}{\numberline {2}Data}{4}{section.0.2}%
+\contentsline {subsubsection}{Unsupervised Data}{4}{equation.0.2.4}%
+\contentsline {subsubsection}{Supervised Data}{5}{equation.0.2.4}%
+\contentsline {subsubsection}{Sequential Supervised Data (RNN)}{5}{equation.0.2.4}%
+\contentsline {section}{\numberline {3}Methods}{5}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Finite Difference Scheme}{5}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Physics Informed Neural Networks (PINNs)}{6}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Hybrid Solver}{7}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}Recurrent Neural Networks (RNNs)}{7}{subsection.0.3.4}%
+\contentsline {section}{\numberline {4}Results and Analysis}{8}{section.0.4}%
+\contentsline {subsubsection}{Limitations and Potential of PINNs:}{8}{tcbfloat.caption.3}%
+\contentsline {subsubsection}{Overfitting Considerations in Different Solvers:}{9}{tcbfloat.caption.3}%
+\contentsline {subsubsection}{Data Normalization and Scale Considerations:}{9}{tcbfloat.caption.3}%
+\contentsline {subsubsection}{Potential and Limitations of Neural Networks for PDEs:}{9}{tcbfloat.caption.3}%
+\contentsline {subsection}{\numberline {4.1}Hyperparameters and Architecture}{10}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2}Comparisons}{11}{subsection.0.4.2}%
+\contentsline {section}{\numberline {5}Conclusion}{12}{section.0.5}%
+\contentsline {section}{Bibliography}{13}{chapter*.8}%

@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+The style file: plain.bst
+Database file #1: report.bib
+Warning--entry type for "MachineLearningProjects_2023" isn't style-file defined
+--line 1 of file report.bib
+Warning--entry type for "gpt" isn't style-file defined
+--line 11 of file report.bib
+Warning--entry type for "fys-stk" isn't style-file defined
+--line 22 of file report.bib
+You've used 7 entries,
+            2118 wiz_defined-function locations,
+            533 strings with 5844 characters,
+and the built_in function-call counts, 3123 in all, are:
+= -- 251
+> -- 304
+< -- 0
++ -- 121
+- -- 114
+* -- 264
+:= -- 564
+add.period$ -- 21
+call.type$ -- 7
+change.case$ -- 78
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 53
+empty$ -- 159
+format.name$ -- 114
+if$ -- 594
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 1
+newline$ -- 38
+num.names$ -- 14
+pop$ -- 103
+preamble$ -- 1
+purify$ -- 71
+quote$ -- 0
+skip$ -- 50
+stack$ -- 0
+substring$ -- 56
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 0
+while$ -- 15
+width$ -- 8
+write$ -- 73
+(There were 3 warnings)

@@ -1,0 +1,54 @@
+\begin{thebibliography}{1}
+
+\bibitem{tensorflow2015-whitepaper}
+Mart\'{i}n Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen,
+  Craig Citro, Greg~S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin,
+  Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard,
+  Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh
+  Levenberg, Dandelion Man\'{e}, Rajat Monga, Sherry Moore, Derek Murray, Chris
+  Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal
+  Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vi\'{e}gas,
+  Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and
+  Xiaoqiang Zheng.
+\newblock {TensorFlow}: Large-scale machine learning on heterogeneous systems,
+  2015.
+\newblock Software available from tensorflow.org.
+
+\bibitem{fys-stk}
+Morten Hjorth-Jensen.
+\newblock Fys-stk4155/3155 applied data analysis and machine learning.
+\newblock
+  \url{https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html},
+  2021.
+\newblock accessed 18.12.2023.
+
+\bibitem{lstm}
+Sepp Hochreiter and Jürgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9:1735--80, 12 1997.
+
+\bibitem{hu2022neuralpde}
+Yihao Hu, Tong Zhao, Shixin Xu, Zhiliang Xu, and Lizhen Lin.
+\newblock Neural-pde: A rnn based neural network for solving time dependent
+  pdes, 2022.
+
+\bibitem{krishnapriyan2021characterizing}
+Aditi~S. Krishnapriyan, Amir Gholami, Shandian Zhe, Robert~M. Kirby, and
+  Michael~W. Mahoney.
+\newblock Characterizing possible failure modes in physics-informed neural
+  networks, 2021.
+
+\bibitem{gpt}
+OpenAI.
+\newblock Chat-gpt.
+\newblock \url{https://openai.com/chatgpt}, 2023.
+\newblock Some of the code and formulations are developed with the help from
+  Chat-GPT.
+
+\bibitem{MachineLearningProjects_2023}
+Brage Wiseth, Felix~Camerer Heyerdahl, and Eirik~Bjørnson Jahr.
+\newblock {MachineLearningProjects}.
+\newblock \url{https://github.com/bragewiseth/MachineLearningProjects},
+  November 2023.
+
+\end{thebibliography}
