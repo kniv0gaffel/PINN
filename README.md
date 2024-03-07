@@ -1,8 +1,3 @@
-# FYS-STK3155 Projects
-This repository is a collection of projects in FYS-STK 3155/4155 Applied Data Analysis and 
-Machine Learning at the University of Oslo
-
-## ⚠️ IMPORTANT
 For our projects we use the local python package
 ADAMLL - Applied Data Analysis and Machine Learning Library
 you can find the source code for this package in `ADAMLL-package\`
